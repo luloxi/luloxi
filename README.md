@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luloxi
-- 👀 Interested in everything web3
-- 🌱 Currently learning JavaScript (focusing on ReactJs and NextJs) & Solidity
+- 👀 Interested in everything Web3
+- 🌱 Currently learning about Solidity & Javascript
 - 💞️ Looking to collaborate on Web3 projects
 - 📫 Contact me (eng/spa) on Twitter -> @LuloxEth 
 
