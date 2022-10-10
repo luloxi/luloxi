@@ -3,7 +3,7 @@
 - 🌱 Currently learning about Solidity & Javascript
 - 💞️ Looking to collaborate on Web3 projects
 - 📫 Contact me (eng/spa) on: ligma@duck.com 
-- 🦜 Twitter -> [https://twitter.com/LuloxEth](@LuloxEth)
+- 🦜 Twitter -> [@LuloxEth](https://twitter.com/LuloxEth)
 
 <!---
 luloxi/luloxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
