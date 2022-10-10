@@ -2,7 +2,7 @@
 - 👀 Interested in everything Web3
 - 🌱 Currently learning about Solidity & Javascript
 - 💞️ Looking to collaborate on Web3 projects
-- 📫 Contact me (eng/spa) on: [mailto:ligma@duck.com](ligma@duck.com)
+- 📫 Contact me (eng/spa) on: ligma@duck.com 
 - 🦜 Twitter -> [https://twitter.com/LuloxEth](@LuloxEth)
 
 <!---
