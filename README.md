@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luloxi
-- 👀 Interested in everything Web3
-- 🌱 Currently learning about Solidity & Javascript
+- 👋 Hi, I’m Lulox (@luloxi)
+- 👀 Interested in web3, backend and frontend
+- 🌱 Currently learning Solidity, React & TailwindCSS
 - 💞️ Looking to collaborate on Web3 projects
 - 📫 Contact me (eng/spa) on: ligma@duck.com 
 - 🦜 Twitter -> [@LuloxEth](https://twitter.com/LuloxEth)
