@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lulox (@luloxi)
 - 👀 Interested in Fullstack Web3 (backend and frontend) 
-- 🌱 Currently learning Solidity, React & TailwindCSS
+- 🌱 Currently learning Solidity, NextJS & TailwindCSS
 - 💞️ Looking to collaborate on Web3 projects
 - 📫 Contact me (eng/spa) on: ligma@duck.com 
 - 🦜 Twitter -> [@LuloxEth](https://twitter.com/LuloxEth)
