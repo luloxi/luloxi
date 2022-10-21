@@ -1,11 +1,15 @@
 - 👋 Hi, I’m Lulox (@luloxi)
 - 👀 Interested in Fullstack Web3 (backend and frontend) 
-- 🌱 Currently learning Solidity, NextJS & TailwindCSS
-- 💞️ Looking to collaborate on Web3 projects
+- 🌱 Currently learning about Blockchain, Solidity, Web3 Development and React.
+- 💞️ Looking to work/collaborate on Web3 projects
 - 📫 Contact me (eng/spa) on: ligma@duck.com 
-- 🦜 Twitter -> [@LuloxEth](https://twitter.com/LuloxEth)
 
-<!---
-luloxi/luloxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+  <a href="https://www.linkedin.com/in/lulox/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/LuloxEth" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
