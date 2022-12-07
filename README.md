@@ -2,7 +2,7 @@
 - 👀 Interested in Fullstack Web3 (backend and frontend) 
 - 🌱 Currently learning about Blockchain, Solidity, Web3 Development and React.
 - 💞️ Looking to work/collaborate on Web3 projects
-- 📫 Contact me (eng/spa) on: ligma@duck.com 
+- 📫 Contact me (eng/spa) on: lulox.eth@protonmail.com
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lulox/" target="_blank">
