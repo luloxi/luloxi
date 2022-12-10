@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lulox (@luloxi)
-- 👀 Interested in Fullstack Web3 (backend and frontend) 
-- 🌱 Currently learning about Blockchain, Solidity, Web3 Development and React.
-- 💞️ Looking to work/collaborate on Web3 projects
+- 👀 I'm interested in JavaScript, Web3 development and Solidity
+- 🌱 Currently learning more about Blockchain and Web development
+- 💞️ Looking to work/collaborate on Web3/Solidity projects
 - 📫 Contact me (eng/spa) on: lulox.eth@protonmail.com
 
 <div align="left">
