@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lulox (@luloxi)
-- 👀 I'd say **Solidity** is my main language now, because I'm learning it deep to become an auditor
-- ☕ I like **Javascript** and its frameworks. Specially **Next.js** for the **React** library and **Hardhat* for **Solidity**.
+- 👀 I'd say **Solidity** is my main language, because I'm learning deep to become an auditor
+- ☕ I like **Javascript** and its frameworks. Specially **Next.js** for the **React** library and **Hardhat** for **Solidity**.
 - 🌱 I'm always learning more about Web3 security and development. I just love the web3 space!
 - 💞️ Contact me if you want me to work/collaborate with your web3 project!
 - 📫 Just send me an email (eng/spa): ligma@duck.com
