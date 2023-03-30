@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Lulox (@luloxi)
-- 👀 I like **Javascript** and its frameworks. Specially Hardhat for **Solidity** smart contracts and Next.js for **React** apps
-- 🌱 I'm always learning more tools for Web3 development. Currently learning ChakraUI and going deeper into Next.js
-- 💞️ I'm open to work/collaborate with your Web3/Solidity project!
-- 📫 Just send me an email (eng/spa): lucianoolivabianco@gmail.com
+- 👀 I'd say **Solidity** is my main language now, because I'm learning it deep to become an auditor
+- ☕ I like **Javascript** and its frameworks. Specially **Next.js** for the **React** library and **Hardhat* for **Solidity**.
+- 🌱 I'm always learning more about Web3 security and development. I just love the web3 space!
+- 💞️ Contact me if you want me to work/collaborate with your web3 project!
+- 📫 Just send me an email (eng/spa): ligma@duck.com
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lulox/" target="_blank">
