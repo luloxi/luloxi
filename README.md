@@ -3,7 +3,7 @@
 - ☕ I like **Javascript** and its frameworks. Specially **Next.js** for the **React** library and **Hardhat** for **Solidity**.
 - 🌱 I'm always learning more about web3 security and development. I just love the web3 space!
 - 💞️ Contact me if you want me to work/collaborate with your web3 project!
-- 📫 Just send me an email (eng/spa): ligma@duck.com
+- 📫 Just send me an email (eng/spa): lulox.eth@protonmail.com
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lulox/" target="_blank">
