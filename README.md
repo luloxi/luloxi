@@ -2,7 +2,7 @@
   <h1 style="font-size: 48px">Hi, I'm Lulox! 👋</h1>
 </div>
 
-🌱 [Learning about web3 development](https://www.youtube.com/watch?v=gyMwXuJrbJQ) is fun, the web3 space is like an amusement park 💖<br />
+🌱 [Web3 development is fun](https://speedrunethereum.com/), the web3 space is like [an amusement park](https://www.youtube.com/watch?v=gyMwXuJrbJQ) 💖<br />
 🪄 **JavaScript** frameworks and libraries are cool. Especially [Hardhat](https://hardhat.org/hardhat-network/docs/overview), [Next.js](https://nextjs.org/docs), [React](https://react.dev/learn), [Rainbowkit](https://www.rainbowkit.com/docs/introduction), [Wagmi](https://wagmi.sh/react/getting-started), and [Express](https://expressjs.com/en/starter/installing.html) 🔥<br />
 🗿 Got a love/hate relationship with [Solidity](https://docs.soliditylang.org/en/v0.8.19/). On the good days [I want to be an auditor](https://github.com/x676f64/secureum-mind_map) 🛡️<br />
 📫 If you want to **work/collaborate with me**, drop me a message (eng/spa): lulox.eth@protonmail.com 💌
