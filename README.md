@@ -5,7 +5,7 @@
 💖 I love the web3 space because it's [for everyone, and full of interesting things to create](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878) 🔥<br />
 🌱 I'm currently focused on <b>smart contracts</b> written in [Solidity](https://docs.soliditylang.org/en/latest/cheatsheet.html), using [Foundry](https://book.getfoundry.sh/) and [Hardhat](https://hardhat.org/hardhat-network/docs/overview) suites for testing<br />
 🛡️ I'd like to someday [become a security researcher](https://www.youtube.com/watch?v=pUWmJ86X_do), and I know there are [good maps](https://github.com/x676f64/secureum-mind_map) 🐥<br /><br />
-🪄 For web building, I use **JavaScript** frameworks and libraries like [React](https://react.dev/learn), [Next.js](https://nextjs.org/docs), [TailwindCSS](https://tailwindcss.com/) and [Scaffold-ETH 2](https://scaffoldeth.io/). <br />
+🪄 When building web3 dApps, I use **JavaScript** frameworks and libraries like [React](https://react.dev/learn), [Next.js](https://nextjs.org/docs), [TailwindCSS](https://tailwindcss.com/) and [Scaffold-ETH 2](https://scaffoldeth.io/). <br />
 🏰 You can check my builds on my [BuidlGuidl Profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0) 💼
 <br />
 
