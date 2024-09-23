@@ -14,7 +14,7 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; margin-top: 24px;">
     <a href="https://twitter.com/LuloxEth" target="_blank" style="margin-right: 12px;">
-      <img src="https://ideasconcafe.com/wp-content/uploads/2017/06/articulo-cafe-junio-3-800.png" width="52" height="40" alt="twitter logo" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
     </a>
     <a href="https://www.linkedin.com/in/lulox/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
