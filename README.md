@@ -3,10 +3,10 @@
 </div>
 
 💖 I love the web3 space because it's [for everyone, and full of interesting things to create](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878) 🔥<br />
-🌱 I'm currently focused on <b>smart contracts</b> written in **Solidity**, using **Foundry** and **Hardhat** suites for testing<br />
-🪄 When building web3 dApps, I use **JavaScript** frameworks and libraries like **React**, **Next.js**, **TailwindCSS** and [Scaffold-ETH 2](https://scaffoldeth.io/). <br />
-
+🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**Next.js**, **Typescript**, **TailwindCSS**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
 🏰 You can check my builds on my [BuidlGuidl Profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0) <br />
+
+🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
 🛡️ I'm studying to become a security researcher, here you can see the [audits I've done](https://github.com/luloxi/security-reviews) 🐥<br />
 
 💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com or a DM in my socials below!
