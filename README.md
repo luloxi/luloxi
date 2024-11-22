@@ -9,7 +9,7 @@
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
 🛡️ I'm studying to become a security researcher, here you can see the [audits I've done](https://github.com/luloxi/security-reviews) 🐥<br />
 
-💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com or a DM in my socials below!
+💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com or a DM in my socials below!
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; margin-top: 24px;">
