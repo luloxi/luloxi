@@ -9,6 +9,8 @@
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
 
 🏰 You can check my builds on my [BuidlGuidl Profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0) <br />
+🛡 Security reviews I've done: [GitHub Repository](https://github.com/luloxi/security-reviews)
+  
 💌 Contact me via **Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
 
 ---
@@ -31,14 +33,9 @@
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
   [Website](https://punksociety.xyz/about) | [GitHub](https://github.com/luloxi/PunkSociety)
-
-- Security reviews I've done: [GitHub Repository](https://github.com/luloxi/security-reviews)
     
 - Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022.  
   [GitHub](https://github.com/luloxi/Sportsbook)
-  
-- Authored **Newbies Lounge**, an introductory article on building Ethereum dApps.  
-  [Article](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878)
 
 ### Multimedia Developer at FEDUN (University teachers union)
 **04/2015 - 02/2020**
