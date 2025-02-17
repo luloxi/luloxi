@@ -1,14 +1,15 @@
 <div align="center">
   <h2 style="font-size: 48px">Hi, I'm Luciano Oliva Bianco! 👋</h2>
+  <span>Web3 applications developer and security researcher.</span>
+  
 </div>
-
- **Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
-Web3 applications developer and security researcher.
-
+ 
 💖 I love the web3 space because it's [for everyone, and full of interesting things to create](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878) 🔥<br />
 🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**Next.js**, **Typescript**, **TailwindCSS**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
+
 🏰 You can check my builds on my [BuidlGuidl Profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0) <br />
+💌 Contact me via **Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
 
 ---
 
