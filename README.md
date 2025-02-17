@@ -59,7 +59,7 @@ Web3 applications developer and security researcher.
 - **Blockchain Security Academy**: Graduated with a score of 87/100. Studied blockchain vulnerabilities and secure coding practices with Hardhat.
 - **Cyfrin Updraft**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
 
-💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com or a DM in my socials below!
+💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com or a DM in my socials below!
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; margin-top: 24px;">
