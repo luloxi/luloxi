@@ -1,6 +1,6 @@
 <div align="center">
   <h2 style="font-size: 48px">Hi, I'm Luciano Oliva Bianco! 👋</h2>
-  <span>Web3 applications developer and security researcher.</span>
+  <h3>Web3 applications developer and security researcher.</h3>
   
 </div>
  
