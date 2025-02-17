@@ -32,7 +32,7 @@
   [Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami)
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
-  [Website](https://punksociety.xyz/about) | [GitHub](https://github.com/luloxi/PunkSociety)
+  [Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety)
     
 - Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022.  
   [GitHub](https://github.com/luloxi/Sportsbook)
