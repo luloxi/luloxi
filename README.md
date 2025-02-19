@@ -12,14 +12,6 @@
 
 ---
 
-## Technologies
-
-- **Smart Contracts**: Solidity, Foundry, Hardhat, Scaffold-ETH 2
-- **Frontend**: Typescript, React, Next.js, TailwindCSS, Wagmi, Viem
-- **Backend**: Node.js, Linux
-
----
-
 ## Experience
 
 ### Full Stack Developer
