@@ -31,20 +31,12 @@
 - 🏰 Developed several web3 prototypes at BuidlGuidl ([BuidlGuidl profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0))
 - ⚽ Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022   ([GitHub](https://github.com/luloxi/Sportsbook))
 
-### Multimedia Developer at FEDUN (University teachers union)
-**2015 - 2020**
-
-- **Web development**: Set up LAMP servers for Moodle and WordPress, designed layouts in WordPress using Elementor, and performed ongoing performance and SEO optimizations. Improved UX/UI with data from Google Analytics. Implemented accesibility following the ARIA standard.
-- **Social Media**: Created and scheduled content for Facebook, Twitter, Instagram, and YouTube using Adobe Photoshop, Adobe Premiere, Canva, and other tools. 
-- **E-mail marketing**: Created and scheduled email weekly news and marketing campaigns using Mailchimp.
-- **Photography**: Photographed and recorded live events, including music festivals, and then edited the material or uploaded it live while on the event.
-- **Teamwork**: Trained staff in new technologies and coordinated team projects using Trello.
-
 ---
 
 ## Education
 
-### Online Education (2022 - Present)
+### Online Education 
+**2022 - Present**
 
 - **[Speedrun Ethereum](https://speedrunethereum.com/)**: Trained in Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi.
 - **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
