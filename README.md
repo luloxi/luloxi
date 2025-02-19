@@ -5,7 +5,7 @@
 </div>
  
 💖 I love the web3 space because it's [for everyone, and full of interesting things to create](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878) 🔥<br />
-🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**Next.js**, **Typescript**, **TailwindCSS**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
+🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**Typescript**, **Next.js**, **React**, **TailwindCSS**, **daisyUI**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
   
 💌 Contact me via **Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
