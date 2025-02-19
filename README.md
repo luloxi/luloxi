@@ -14,9 +14,6 @@
 
 ## Experience
 
-### Full Stack Developer
-**2022 - Present**
-
 - 🤖 Developed **SAMI**, a game where you bet on finding the impostor AI in a chat room, achieving finalist in the Mode AI Agent Hackathon 2025 ([Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami))
 - 🤘 Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024 ([Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety))
 - 🛡 Performed security audits on smart contracts ([GitHub Repository](https://github.com/luloxi/security-reviews))
@@ -26,9 +23,6 @@
 ---
 
 ## Education
-
-### Online Education 
-**2022 - Present**
 
 - **[Speedrun Ethereum](https://speedrunethereum.com/)**: Trained in Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi.
 - **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
