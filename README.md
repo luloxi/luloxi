@@ -38,7 +38,7 @@
   [GitHub](https://github.com/luloxi/Sportsbook)
 
 ### Multimedia Developer at FEDUN (University teachers union)
-**04/2015 - 02/2020**
+**2015 - 2020**
 
 - **Web development**: Set up LAMP servers for Moodle and WordPress, designed layouts in WordPress using Elementor, and performed ongoing performance and SEO optimizations. Improved UX/UI with data from Google Analytics. Implemented accesibility following the ARIA standard.
 - **Social Media**: Created and scheduled content for Facebook, Twitter, Instagram, and YouTube using Adobe Photoshop, Adobe Premiere, Canva, and other tools. 
