@@ -24,10 +24,10 @@
 
 ## Education
 
-- **[Speedrun Ethereum](https://speedrunethereum.com/)**: Trained in Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi.
-- **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
-- **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Graduated with a score of 87/100. Studied blockchain vulnerabilities and secure coding practices with Hardhat.
-- **[freeCodeCamp](http://freecodecamp.org/)**: Learned full-stack development, including React, TypeScript, Next.js, Node.js, and TailwindCSS, with hands-on experience in web app development.
+- **[Speedrun Ethereum](https://speedrunethereum.com/)**: Ethereum dApp programming with Scaffold-ETH 2 with Solidity smart contracts.
+- **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Foundry, Solidity security, blockchain fundamentals, and cryptography principles.
+- **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat. Graduated with a score of 87/100.
+- **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
 
 💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com or a DM in my socials below!
 
