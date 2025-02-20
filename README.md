@@ -24,9 +24,11 @@
 
 ## Education
 
+- **[The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)**: Introduction to the essential tools to build real, working websites.
+- **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
 - **[Speedrun Ethereum](https://speedrunethereum.com/)**: Ethereum dApp programming with Scaffold-ETH 2 with Solidity smart contracts.
 - **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Foundry, Solidity security, blockchain fundamentals, and cryptography principles.
 - **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
-- **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
+
 
 💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com
