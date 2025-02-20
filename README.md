@@ -29,15 +29,4 @@
 - **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
 - **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
 
-💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com or a DM in my socials below!
-
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; margin-top: 24px;">
-    <a href="https://twitter.com/LuloxEth" target="_blank" style="margin-right: 12px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/lulox/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-    </a>
-  </div>
-</div>
+💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com 
