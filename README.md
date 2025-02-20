@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="font-size: 48px">Hi, I'm Lulox! 👋</h2>
+  <h1>Hi, I'm Lulox! 👋</h1>
   <h3>Web3 applications developer and security researcher.</h3>
   
 </div>
