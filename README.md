@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="font-size: 48px">Hi, I'm Luciano Oliva Bianco! 👋</h2>
+  <h2 style="font-size: 48px">Hi, I'm Lulox! 👋</h2>
   <h3>Web3 applications developer and security researcher.</h3>
   
 </div>
@@ -8,7 +8,7 @@
 🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**TypeScript**, **Next.js**, **React**, **TailwindCSS**, **daisyUI**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
   
-💌 Contact me via **Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
+💌 Contact me via **Email**: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
 
 ---
 
@@ -29,4 +29,4 @@
 - **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
 - **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
 
-💼 If you're hiring or want to collaborate, send me an email at lucianoolivabianco@gmail.com 
+💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com
