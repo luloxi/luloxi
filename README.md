@@ -6,8 +6,8 @@
  
 💖 I love the web3 space because it's [for everyone, and full of interesting things to create](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878) 🔥<br />
 🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**TypeScript**, **Next.js**, **React**, **TailwindCSS**, **daisyUI**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
-🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
-  
+🌱 <b>Smart contracts?</b> Written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
+
 💌 Contact me via **Email** for work or collaboration proposals: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
 
 ---
@@ -20,12 +20,3 @@
 - 🏰 Developed several web3 prototypes at BuidlGuidl ([BuidlGuidl profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0))
 - ⚽ Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022   ([GitHub](https://github.com/luloxi/Sportsbook))
 
----
-
-## Education
-
-- **[The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)**: Introduction to the essential tools to build real, working websites.
-- **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
-- **[Speedrun Ethereum](https://speedrunethereum.com/)**: Ethereum dApp programming with Scaffold-ETH 2 with Solidity smart contracts.
-- **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Foundry, Solidity security, blockchain fundamentals, and cryptography principles.
-- **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
