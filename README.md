@@ -8,7 +8,7 @@
 🪄 I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**TypeScript**, **Next.js**, **React**, **TailwindCSS**, **daisyUI**, **Wagmi** and **RainbowKit**) for building web3 dApps. <br />
 🌱 I'm focused on <b>smart contracts</b> written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
   
-💌 Contact me via **Email**: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
+💌 Contact me via **Email** for work or collaboration proposals: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
 
 ---
 
@@ -29,6 +29,3 @@
 - **[Speedrun Ethereum](https://speedrunethereum.com/)**: Ethereum dApp programming with Scaffold-ETH 2 with Solidity smart contracts.
 - **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Foundry, Solidity security, blockchain fundamentals, and cryptography principles.
 - **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
-
-
-💼 If you're hiring or want to collaborate, send me an email at lulox.eth@protonmail.com
