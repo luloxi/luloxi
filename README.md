@@ -14,9 +14,7 @@
 
 ## Experience
 
-- 🤖 Developed **SAMI**, a game where you bet on finding the impostor AI in a chat room, achieving finalist in the Mode AI Agent Hackathon 2025 ([Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami))
-- 🤘 Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024 ([Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety))
+- 🤖 Developed **SAMI**, a game where you bet USDC on finding the impostor AI in a chat room ([Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami))
+- 🤘 Developed **PunkSociety**, a social dApp where posts are NFTs and likes send USDC to post creators ([Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety))
 - 🛡 Performed security audits on smart contracts ([GitHub Repository](https://github.com/luloxi/security-reviews))
 - 🏰 Developed web3 dApps at BuidlGuidl ([BuidlGuidl profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0))
-- ⚽ Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022   ([GitHub](https://github.com/luloxi/Sportsbook))
-
