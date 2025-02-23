@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Lulox! 👋</h1>
-  <h3>Web3 applications developer and security researcher</h3>
   
 </div>
  
