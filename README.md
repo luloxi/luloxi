@@ -8,13 +8,11 @@
 🪄 When <b>building web3 dApps</b>, I use [Scaffold-ETH 2](https://scaffoldeth.io/) (**TypeScript**, **Next.js**, **React**, **TailwindCSS**, **daisyUI**, **Wagmi** and **RainbowKit**) . <br />
 🌱 <b>Smart contracts?</b> Written in **Solidity**, using [Foundry](https://book.getfoundry.sh/getting-started/installation) for testing and deploying<br />
 
-💌 Contact me via **Email** for work or collaboration proposals: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
-
 ---
 
-## Experience
+- 🤖 **SAMI**, a game where you bet USDC on finding the impostor AI in a chat room ([Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami))
+- 🤘 **PunkSociety**, a social dApp where posts are NFTs and likes send USDC to post creators ([Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety))
+- 🛡 Security audits on smart contracts ([GitHub Repository](https://github.com/luloxi/security-reviews))
+- 🏰 Web3 dApps at BuidlGuidl ([BuidlGuidl profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0))
 
-- 🤖 Developed **SAMI**, a game where you bet USDC on finding the impostor AI in a chat room ([Website](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami))
-- 🤘 Developed **PunkSociety**, a social dApp where posts are NFTs and likes send USDC to post creators ([Website](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety))
-- 🛡 Performed security audits on smart contracts ([GitHub Repository](https://github.com/luloxi/security-reviews))
-- 🏰 Developed web3 dApps at BuidlGuidl ([BuidlGuidl profile](https://buidlguidl.com/builders/0xfBD9Ca40386A8C632cf0529bbb16b4BEdB59a0A0))
+💌 Contact me via **Email** for work or collaboration proposals: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
