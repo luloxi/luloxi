@@ -8,6 +8,6 @@
 
 🔗 Here's my outdated portfolio 👉 https://lulox.dev/
 <br>
-💌 Contact:  **lulox.eth@gmail.com**
+💌 Contact:  **lulox.eth@protonmail.com**
 
 </div>
