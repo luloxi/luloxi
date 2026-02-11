@@ -1,6 +1,22 @@
 <div align="center">
-  <h1>Hi, I'm Lulox! 👋</h1>
-  <h2><a href="https://lulox.dev/">😉 You can check my portfolio here 😉</a></h2>
-</div>
 
-💌 Contact me via **Email** for work or collaboration proposals: [lulox.eth@protonmail.com](mailto:lulox.eth@protonmail.com)  
+# Visit 👉 [Shimeji AI Pets (shimeji.dev) ✨🐱🐰](https://shimeji.dev)
+## Magical AI Companions Living in Your Browser  
+
+### 🧠 Chat with AI  
+### 🌐 Act Online & Onchain  
+### 🎨 Customize with Unique NFTs  
+
+### 🛠 Open Source Repo → https://github.com/luloxi/Shimeji-AI-Pets  
+<br>
+
+# Hi, I'm Lulox 👋  
+<br>
+🔗 Here's my outdated portfolio 👉 https://lulox.dev/
+
+<br>
+
+💌 Contact me for collaboration or work:  
+**lulox.eth@protonmail.com**
+
+</div>
