@@ -2,8 +2,8 @@
 
 # Hi, I'm Lulox 👋  
 
-### Visit 👉 [Shimeji AI Pets (shimeji.dev) ✨🐱🐰](https://shimeji.dev)
-#### 🛠 Open Source Repo → https://github.com/luloxi/Shimeji-AI-Pets  
+### Visit 👉 [Mochi ✨🐱🐰](https://mochiagents.vercel.app/) 
+#### 🛠 Open Source Repo → [https://github.com/shimeji-ai/Mochi](https://github.com/shimeji-ai/Mochi)  
 <br>
 
 🔗 Here's my outdated portfolio 👉 https://lulox.dev/
