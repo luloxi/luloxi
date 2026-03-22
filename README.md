@@ -3,7 +3,7 @@
 # Hi, I'm Lulox 👋  
 
 ### Visit 👉 [Mochi ✨🐱🐰](https://mochiagents.vercel.app/) 
-#### 🛠 Open Source Repo → [https://github.com/shimeji-ai/Mochi](https://github.com/shimeji-ai/Mochi)  
+#### 🛠 Open Source Repo → [https://github.com/luloxi/Mochi](https://github.com/luloxi/Mochi)  
 <br>
 
 🔗 Here's my outdated portfolio 👉 https://lulox.dev/
