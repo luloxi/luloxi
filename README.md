@@ -3,7 +3,7 @@
 # Hi, I'm Lulox 👋  
 
 🔗 Here's my portfolio 👉 https://lulox.dev/
-<br>
+<p />
 💌 Contact:  **lucianoolivabianco@gmail.com**
 
 </div>
