@@ -4,6 +4,6 @@
 
 🔗 Here's my portfolio 👉 https://lulox.dev/
 <p />
-💌 Contact:  **lucianoolivabianco@gmail.com**
+💌 Contact:  **[lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)**
 
 </div>
