@@ -2,4 +2,6 @@
 
 # Hi, I'm Lulox 👋  
 
-🔗 Here's my portfolio 👉 https://lulox.dev/
+I'm a human, you can check my socials for proof. 
+
+🔗 More about me 👉 https://lulox.com.ar/
